@@ -19,22 +19,20 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 18px 80px 18px 80px;
 }
 
 nav ul {
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 30px;
 }
 
 nav a {
     color: var(--gray-light);
     font-weight: 500;
     text-decoration: none;
-}
-
-a {
-    margin-left: 15px;
 }
 
 .filler {

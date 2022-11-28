@@ -1,0 +1,30 @@
+.vagas-titulo {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+.vagas span {
+    color: var(--red);
+    font-size: 14px;
+    background-color: rgba(142, 36, 36, 0.05);
+    border-radius: 16px;
+    padding: 0.5em 0.7em;
+}
+
+.vagas h2 {
+    font-size: 36px;
+    font-weight: 600;
+    margin: 1em 0;
+}
+
+.vagas p {
+    color: var(--gray-light);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.vagas img {
+    margin: 4em 0 0 0;
+}
